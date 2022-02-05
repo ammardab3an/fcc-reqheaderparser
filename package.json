@@ -1,0 +1,24 @@
+{
+    "name": "req-header-parser",
+    "version": "0.0.1",
+    "description": "request header parser",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ammardab3an/reqHeaderParser.git"
+    },
+    "author": "AmmarDab3an",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ammardab3an/reqHeaderParser/issues"
+    },
+    "homepage": "https://github.com/ammardab3an/reqHeaderParser#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.2"
+    }
+}
